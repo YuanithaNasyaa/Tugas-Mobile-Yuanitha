@@ -1,4 +1,2 @@
-Kumpulan Tugas Pemrograman Mobile
-Nama: Yuanitha Nasya Arthanti
-NIM: 41155050240016
-Repository ini akan digunakan untuk mengumpulkan tugas Pemrograman Mobile sesuai dengan instruksi perkuliahan.
+Kumpulan Tugas Pemrograman Mobile Yuanitha Nasya Arthanti 41155050240016
+
