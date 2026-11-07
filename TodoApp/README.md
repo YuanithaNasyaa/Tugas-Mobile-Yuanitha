@@ -1,0 +1,31 @@
+# TodosApp 📱
+
+A simple Todo List application built with **React Native, Expo, and Firebase Firestore**.
+
+## Features
+- Create new tasks
+- Read todo lists
+- Update existing tasks
+- Delete tasks
+
+## Technologies
+- React Native
+- Expo SDK 49
+- Firebase Firestore
+- JavaScript
+
+## Installation
+
+```bash
+npm install
+npx expo start
+```
+
+## Firebase Setup
+1. Create a Firebase project.
+2. Enable Cloud Firestore.
+3. Create a collection named `todos`.
+4. Configure Firebase in `config.js`.
+
+## Author
+TodosApp – React Native CRUD Project.
