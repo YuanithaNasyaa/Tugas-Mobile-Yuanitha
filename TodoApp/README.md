@@ -41,4 +41,4 @@ npx expo start
 4. Configure Firebase in `config.js`.
 
 ## Author
-TodosApp – React Native CRUD Project.
+Yuanitha Nasya Arthanti
